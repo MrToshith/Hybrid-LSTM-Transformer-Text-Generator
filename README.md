@@ -1,1 +1,1 @@
-# Hybrid LSTM Transformer Text Generator
+# Hybrid GRU-Transformer Text Generator
